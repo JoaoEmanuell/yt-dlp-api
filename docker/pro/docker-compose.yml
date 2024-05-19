@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+    yt_dlp_api_pro:
+        build: .
+        ports:
+            - '8080:8080'
+        restart: always
