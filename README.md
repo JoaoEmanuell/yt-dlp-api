@@ -2,6 +2,8 @@
 
 A web API for [yt-dlp](https://github.com/yt-dlp/yt-dlp), used to extract direct links for YouTube videos and playlists.
 
+[Read the docs](./docs/README.md)
+
 # Getting Started
 
 Clone the repository:
